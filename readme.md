@@ -83,7 +83,7 @@ Myntra_Clone/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Fully Responsive Design
 - JavaScript Functionality
@@ -94,8 +94,8 @@ Myntra_Clone/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sukhman Dult**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/sukhmandult4-web
