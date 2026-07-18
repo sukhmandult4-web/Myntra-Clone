@@ -1,4 +1,4 @@
-#  Myntra Clone
+#  🛍️ Myntra Clone
 
 A responsive front-end clone of the Myntra homepage built using **HTML5** and **CSS3**. This project recreates the layout and design of the official Myntra landing page to practice modern web development concepts.
 
