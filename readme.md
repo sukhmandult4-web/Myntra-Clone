@@ -1,10 +1,10 @@
-# 🛍️ Myntra Clone
+#  Myntra Clone
 
 A responsive front-end clone of the Myntra homepage built using **HTML5** and **CSS3**. This project recreates the layout and design of the official Myntra landing page to practice modern web development concepts.
 
----
 
-## 🚀 Features
+
+##  Features
 
 - Responsive Header
 - Navigation Bar
@@ -17,45 +17,45 @@ A responsive front-end clone of the Myntra homepage built using **HTML5** and **
 - Hover Effects
 - Clean Folder Structure
 
----
 
-## 🛠️ Tech Stack
+
+## Tech Stack
 
 - HTML5
 - CSS3
 - Google Material Symbols
 
----
 
-## 📸 Screenshots
 
-### 🏠 Homepage
+## Screenshots
+
+###  Homepage
 
 ![Homepage](screenshots/homepage.png)
 
----
 
-### 🛍️ Product Section
+
+###  Product Section
 
 ![Products](screenshots/products.png)
 
----
 
-### 🛒 Shop by Category
+
+###  Shop by Category
 
 ![Categories](screenshots/categories.png)
 
----
 
-### 📄 Footer
+
+###  Footer
 
 ![Footer](screenshots/footer.png)
 
----
 
-## 📂 Project Structure
 
-```
+## Project Structure
+
+
 Myntra_Clone/
 │
 ├── images1/
@@ -67,11 +67,11 @@ Myntra_Clone/
 ├── index.html
 ├── style.css
 └── README.md
-```
 
----
 
-## 🎯 What I Learned
+
+
+##  What I Learned
 
 - Flexbox Layout
 - Responsive Design Basics
@@ -81,7 +81,7 @@ Myntra_Clone/
 - Building Real Website Clones
 - Clean HTML Structure
 
----
+
 
 ##  Future Improvements
 
@@ -92,7 +92,7 @@ Myntra_Clone/
 - Dropdown Navigation
 - Shopping Cart Functionality
 
----
+
 
 ##  Author
 
